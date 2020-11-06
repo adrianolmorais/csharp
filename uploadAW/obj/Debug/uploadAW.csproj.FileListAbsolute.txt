@@ -1,0 +1,7 @@
+C:\Users\adria\source\repos\uploadAW\uploadAW\bin\uploadAW.dll.config
+C:\Users\adria\source\repos\uploadAW\uploadAW\bin\uploadAW.dll
+C:\Users\adria\source\repos\uploadAW\uploadAW\bin\uploadAW.pdb
+C:\Users\adria\source\repos\uploadAW\uploadAW\obj\Debug\uploadAW.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\uploadAW\uploadAW\obj\Debug\uploadAW.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\uploadAW\uploadAW\obj\Debug\uploadAW.dll
+C:\Users\adria\source\repos\uploadAW\uploadAW\obj\Debug\uploadAW.pdb
