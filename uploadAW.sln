@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uploadAW", "uploadAW\uploadAW.csproj", "{6647A491-FFB4-463E-A74A-E0D4F3DB2B15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uploadAWTest", "uploadAWTest\uploadAWTest.csproj", "{F47F24D0-0400-4B9E-B47F-338D8D481568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6647A491-FFB4-463E-A74A-E0D4F3DB2B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6647A491-FFB4-463E-A74A-E0D4F3DB2B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6647A491-FFB4-463E-A74A-E0D4F3DB2B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47F24D0-0400-4B9E-B47F-338D8D481568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47F24D0-0400-4B9E-B47F-338D8D481568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47F24D0-0400-4B9E-B47F-338D8D481568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47F24D0-0400-4B9E-B47F-338D8D481568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
